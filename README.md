@@ -1,7 +1,7 @@
 ### 📊 **Dashboard Overview**
 Your dashboard provides a comprehensive view of sales and order performance, with key metrics and visualizations that help track business health and customer behavior.
 
-![Uploading Screenshot 2025-06-05 103616.png…]()
+![Screenshot 2025-06-05 103616](https://github.com/user-attachments/assets/c95cff9b-58d4-463f-90c2-5577d02bcadb)
 
 ---
 
