@@ -38,6 +38,10 @@ Your dashboard provides a comprehensive view of sales and order performance, wit
   - Others/Bulk
 
 ---
+### 🏙️ **Revenue By Hour (Order Time)**
+- A line chart shows how orders are distributed relatively evenly throughout the day, with noticeable peaks around 7pm to 9pm which is usually dinner time when customers might place orders.
+
+---
 
 ### 🧰 **Interactive Filters**
 - **Order Date** and **Delivery Date** range selectors
